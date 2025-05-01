@@ -75,6 +75,6 @@ The contact form is currently front-end only. To make it functional, you would n
 
 ---
 
-© 2023 Tsion Wubshet | All Rights Reserved
+© 2025 Tsion Wubshet | All Rights Reserved
 
-"# PERSONAL-PORTFOLIO" 
+"# PERSONAL-PORTFOLIO"
